@@ -1,5 +1,19 @@
 # @builder.io/sdk-angular
 
+## 0.23.0
+
+### Minor Changes
+
+- ba80951: Bump dependency `isolated-vm` from `5.0.0` to `6.0.0` to add support for Node v24.
+
+  BREAKING CHANGE: Drops support for Node 18 and 20.
+
+## 0.22.3
+
+### Patch Changes
+
+- f4584fa: fix: only use the edge runtime when the edge build is imported
+
 ## 0.22.2
 
 ### Patch Changes
